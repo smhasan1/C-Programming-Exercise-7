@@ -15,4 +15,4 @@ Then the program reads from the standard input a sequence of names (student name
   ◦ The two numbers in the record (midterm and final) and the number of search steps to locate the record. If the record is at the head of the list (like Name or name2 in the figure) the search steps is 1. If it is like Name3, the search steps is two, and so on.  
   ◦ For simple testing, use the format “%d %d %d\n” where there is one space between the %d’s  
 • If the name is not in the file, the program outputs the following  
-  ◦ “The name does not exist in the file” without the quotation marks followed by a new line.
+  ◦ “The name does not exist in the file” without the quotation marks followed by a new line.  
