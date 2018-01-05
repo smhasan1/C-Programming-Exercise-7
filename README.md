@@ -1,7 +1,7 @@
 # C-Programming-Exercise-7
 Each record consists of a student name (last name, first, then optional middle name) followed by a new line.  
 Then two integers each one in a separate line, these two integers are the midterm mark and the final mark.  
-The records are NOT separated by dotted line the records are continuously stored each record in 3 lines. The dotted lines in the figure are for illustration purpose only.  
+The records are **NOT separated by dotted line** the records are continuously stored each record in 3 lines. The dotted lines in the figure are for illustration purpose only.  
 
 The hashing function is the summation of all bytes in the name (including spaces, comma if any, but not the new line) modulo K.  
 
