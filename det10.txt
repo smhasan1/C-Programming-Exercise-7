@@ -1,0 +1,10 @@
+Location 0 is NULL
+Location 1 is Leilani Weldy (95)Jesse Boster (29)
+Location 2 is Wallace Weiss (23)
+Location 3 is Glennie Macarthur (40)
+Location 4 is Jason Roye (67)
+Location 5 is Melia Ramsburg (45)
+Location 6 is Michael J Smith (20)
+Location 7 is Shaunta Sinkfield (85)
+Location 8 is John Smith (20)Emmy Rodi (90)German Hoy (68)
+Location 9 is Lyndsay Riser (68)
